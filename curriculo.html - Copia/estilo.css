@@ -1,0 +1,56 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0%;
+    margin: 10%;
+    background-image: url('textura.webp'); 
+    background-color: #22ac89;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #f8ecf4;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+    color: #062a6d;
+  }
+  
+  p {
+    margin-top: 5px;
+    color: #000000;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+    color: #0b2c74;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  .skills li {
+    display: inline-block;
+    background-color: #050505;
+    padding: 5px 10px;
+    margin-right: 5px;
+    border-radius: 5px;
+  }
+
